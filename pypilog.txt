@@ -1,0 +1,23 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in c:\program files\python311\lib\site-packages (23.2.1)
+Collecting pip
+  Obtaining dependency information for pip from https://files.pythonhosted.org/packages/15/aa/3f4c7bcee2057a76562a5b33ecbd199be08cdb4443a02e26bd2c3cf6fc39/pip-23.3.2-py3-none-any.whl.metadata
+  Downloading pip-23.3.2-py3-none-any.whl.metadata (3.5 kB)
+Downloading pip-23.3.2-py3-none-any.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 109.3 kB/s eta 0:00:00
+ERROR: To modify pip, please run the following command:
+C:\Program Files\Python311\python.exe -m pip install -U pip
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.2
+[notice] To update, run: python.exe -m pip install --upgrade pip
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in c:\program files\python311\lib\site-packages (23.2.1)
+Collecting pip
+  Obtaining dependency information for pip from https://files.pythonhosted.org/packages/15/aa/3f4c7bcee2057a76562a5b33ecbd199be08cdb4443a02e26bd2c3cf6fc39/pip-23.3.2-py3-none-any.whl.metadata
+  Using cached pip-23.3.2-py3-none-any.whl.metadata (3.5 kB)
+Using cached pip-23.3.2-py3-none-any.whl (2.1 MB)
+ERROR: To modify pip, please run the following command:
+C:\Program Files\Python311\python.exe -m pip install -U pip
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.2
+[notice] To update, run: python.exe -m pip install --upgrade pip
