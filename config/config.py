@@ -12,7 +12,7 @@ API_HASH = "8e6598bb138e8e7890b0fa19d6a152f6"
 
 BOT_TOKEN = "6694818926:AAHxUe9nez2VeiCwbcdKh4VXqtQP8e8GWwU"
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://ella02078:Ih2zXv5z6DPNBpYx@cluster0.hmxlyhl.mongodb.net/")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1004034709007"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Gojo Saturo")
 
