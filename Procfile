@@ -1,2 +1,2 @@
 web: python -m http.server $PORT 
-worker: py -m Mussic
+worker: python3 -m Mussic
