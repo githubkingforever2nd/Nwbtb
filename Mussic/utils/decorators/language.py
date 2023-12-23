@@ -1,6 +1,6 @@
 from strings import get_string
-from AarohiX.misc import SUDOERS
-from AarohiX.utils.database import (get_lang, is_commanddelete_on,
+from Mussic.misc import SUDOERS
+from Mussic.utils.database import (get_lang, is_commanddelete_on,
                                        is_maintenance)
 
 
