@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton
 
 import config
-from AarohiX.utils import time_to_sec
+from Mussic.utils import time_to_sec
 
 
 def stream_markup_timer(_, videoid, chat_id, played, dur):
